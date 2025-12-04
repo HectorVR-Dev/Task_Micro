@@ -10,8 +10,8 @@
 #define LDR4_PIN 36 // Pin del fotoresistor (ADC1_7)
 
 // --- CREDENCIALES Y MQTT ---
-#define WIFI_SSID "FMLIA-ARAUJO-QUIROZ_2.4G"       
-#define WIFI_PASSWORD "77037599"          
+#define WIFI_SSID "XXXXXXXXXXXX"       
+#define WIFI_PASSWORD "XXXXXXXXX"          
 #define MQTT_SERVER "broker.hivemq.com"   
 #define MQTT_PORT 1883                    
 
